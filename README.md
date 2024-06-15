@@ -1,9 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Pengenalan
 
-## Getting Started
+Apa itu SmartResto?
 
-First, run the development server:
+SmartResto adalah project untuk memenuhi UAS yang di kerjakan oleh beberapa orang : 
+1. Ahmad Azkia
+2. Aldi Putra
+3. Difa Nugraha
+4. Darwan
 
+SmartResto adalah sebuah platfrom website yang berfungsi untuk mengatur, mengelola sebuah restoran.
+
+This project using some tech stack like NextJs, NodeJs, TailwindJs, Email Direction, etc(will update later).
+
+our domain for https://smartresto.xyz
+
+### Clone Project for Educational
 ```bash
 npm run dev
 # or
