@@ -7,6 +7,7 @@ SmartResto adalah project untuk memenuhi UAS yang di kerjakan oleh beberapa oran
 2. Aldi Putra
 3. Difa Nugraha
 4. Darwan
+5. Nurul Fithriani Zahra
 
 SmartResto adalah sebuah platfrom website yang berfungsi untuk mengatur, mengelola sebuah restoran.
 
