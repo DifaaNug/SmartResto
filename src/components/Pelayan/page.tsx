@@ -1,9 +1,9 @@
 import React from 'react'
 
-const DashboardPelayan = () => {
+const Pelayan = () => {
   return (
     <div>dashboardPelayan</div>
   )
 }
 
-export default DashboardPelayan
+export default Pelayan

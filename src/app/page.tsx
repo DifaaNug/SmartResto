@@ -1,5 +1,6 @@
 import Image from "next/image";
-import LoginPage from "./Login/login";
+import LoginPage from "../pages/Login/login";
+import Pelayan from "@/components/Pelayan/page";
 
 export default function Home() {
   return (
