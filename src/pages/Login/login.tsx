@@ -2,7 +2,7 @@ import React from 'react'
 
 const LoginPage = () => {
   return (
-    <><div>LoginPage</div><a href="../../components/Pelayan/dashboardPelayan">aa</a></>
+    <><div>LoginPage</div><a href="../dashboardPelayan/index.tsx">aa</a></>
   )
 }
 
