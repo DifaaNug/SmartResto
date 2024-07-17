@@ -1,12 +1,12 @@
 import Kasir from '@/components/Kasir/page'
 import React from 'react'
 
-const index = () => {
+const dashboardKasir = () => {
   return (
     <main>
-        <Kasir/>
+        <h1 className='text-white'>HI</h1>
     </main>
   )
 }
 
-export default index
+export default dashboardKasir
